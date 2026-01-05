@@ -44,8 +44,13 @@ Folder path containing sales_summary.xlsx
 ## Example
 
 Enter sender email address: example@gmail.com
+
 Enter App password: ************
+
 Enter receiver email address: manager@example.com
+
 Enter Email subject: Monthly Sales Report
+
 Enter Email body: Please find the attached sales summary.
+
 Enter folder path containing sales_summary.xlsx: C:\Users\YourName\Reports
