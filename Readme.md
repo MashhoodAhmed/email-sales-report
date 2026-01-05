@@ -41,7 +41,7 @@ Email subject and body
 
 Folder path containing sales_summary.xlsx
 
-##Example
+## Example
 
 Enter sender email address: example@gmail.com
 Enter App password: ************
