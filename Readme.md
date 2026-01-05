@@ -23,14 +23,11 @@ To use this script with Gmail:
 
 ## Installation
 Clone the repository:
-```bash
+
 git clone https://github.com/your-username/email-sales-report.git
 cd email-sales-report
-Usage
+## Usage
 Run the script:
-
-bash
-Copy code
 python send_sales_report.py
 Provide the required inputs when prompted:
 
@@ -44,9 +41,8 @@ Email subject and body
 
 Folder path containing sales_summary.xlsx
 
-Example
-text
-Copy code
+##Example
+
 Enter sender email address: example@gmail.com
 Enter App password: ************
 Enter receiver email address: manager@example.com
